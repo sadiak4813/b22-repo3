@@ -5,3 +5,7 @@ few things happened :
 under your github.com account
 2. made the connection with your local git repo
 3. added all your commits to remote repo
+
+now our work will continue locally
+
+1.added more notes la la la la
