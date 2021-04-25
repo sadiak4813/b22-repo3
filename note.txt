@@ -9,3 +9,9 @@ under your github.com account
 now our work will continue locally
 
 1.added more notes la la la la
+
+we have to save in here first before we can push or make public
+
+control S
+
+we can push more than one commit at a time tooooo woo hoo!!!
