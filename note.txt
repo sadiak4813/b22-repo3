@@ -15,3 +15,5 @@ we have to save in here first before we can push or make public
 control S
 
 we can push more than one commit at a time tooooo woo hoo!!!
+
+now i added another and saved it then commited but not pushed yetttt mwahahaha
